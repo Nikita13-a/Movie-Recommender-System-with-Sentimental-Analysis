@@ -1,6 +1,3 @@
-Here’s a rewritten, more polished, and well-structured version of your project description:
-
----
 
 # **Movie Recommender System with Sentiment Analysis**
 
